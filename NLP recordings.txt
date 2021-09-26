@@ -1,0 +1,26 @@
+http://www.youtube.com/watch?v=4jDlQJBiT5I      syntatic analysis session
+
+https://www.youtube.com/watch?v=OB1SWsO0s2g     syntatic analysis assignment 
+
+https://www.youtube.com/watch?v=HwDJXc13dug     Rasa installation process for chat bot preparation
+
+
+http://www.youtube.com/watch?v=JyROVKyaDeo      case study link
+
+https://www.youtube.com/watch?v=HwDJXc13dug     explained clearly about the case study 
+
+https://www.youtube.com/watch?v=MWEC-rjh4Tw     deployment of machine learning model in cloud environment
+
+
+
+pip install --upgrade tensorflow==
+
+https://myaccount.google.com/lesssecureapps?pli=1
+
+https://myaccount.google.com/lesssecureapps?pli=1
+
+gcp installation
+setup GCP
+
+
+
